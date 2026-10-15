@@ -8,27 +8,27 @@ no server, no manual work required.
 ## Current rates
 
 <!-- KUR-BASLA -->
-**Last updated:** 2026-10-14 12:49 (Turkey time)
+**Last updated:** 2026-10-15 12:29 (Turkey time)
 
 ### Top 5 Global Currencies (vs USD)
 
 | Currency | Code | Rate (per 1 USD) |
 |----------|------|-------------------|
 | US Dollar | USD | 1.0000 (base) |
-| Euro | EUR | 0.8928 |
-| British Pound | GBP | 0.7546 |
-| Japanese Yen | JPY | 158.4000 |
-| Chinese Yuan | CNY | 6.6875 |
+| Euro | EUR | 0.8930 |
+| British Pound | GBP | 0.7545 |
+| Japanese Yen | JPY | 158.4500 |
+| Chinese Yuan | CNY | 6.6872 |
 
 ### Turkish Lira (TRY) Cross Rates
 
 | From | To TRY |
 |------|--------|
-| 1 USD | 49.3550 |
-| 1 EUR | 55.2836 |
-| 1 GBP | 65.4055 |
-| 1 JPY | 0.3116 |
-| 1 CNY | 7.3802 |
+| 1 USD | 49.3820 |
+| 1 EUR | 55.3015 |
+| 1 GBP | 65.4517 |
+| 1 JPY | 0.3117 |
+| 1 CNY | 7.3846 |
 <!-- KUR-BITIR -->
 
 ## What this is for
